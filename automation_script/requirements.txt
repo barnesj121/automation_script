@@ -1,0 +1,4 @@
+# requirements.txt
+
+# No external dependencies required for now.
+# Built-in Python libraries like os and shutil are sufficient.
